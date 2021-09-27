@@ -1,0 +1,14 @@
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\bin\Debug\netcoreapp2.1\FirstShop.deps.json
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\bin\Debug\netcoreapp2.1\FirstShop.runtimeconfig.json
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\bin\Debug\netcoreapp2.1\FirstShop.runtimeconfig.dev.json
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\bin\Debug\netcoreapp2.1\FirstShop.dll
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\bin\Debug\netcoreapp2.1\FirstShop.pdb
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.csprojAssemblyReference.cache
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.RazorAssemblyInfo.cache
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.RazorAssemblyInfo.cs
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.AssemblyInfoInputs.cache
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.AssemblyInfo.cs
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.RazorTargetAssemblyInfo.cache
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.dll
+C:\Users\rezer\Desktop\Eleks\FirstShop\FirstShop\obj\Debug\netcoreapp2.1\FirstShop.pdb

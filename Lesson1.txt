@@ -1,0 +1,45 @@
+Зміст
+1. Types of .NET applications
+2. C# compilation
+
+Topic 1. Types of .NET applications
+
+1. WEB (StackOverflow)
+2. Mobile (Unity)
+3. Desktop (WinForms, WPF)
+4. Machine learning
+5. Game development
+6. Iternet of Things
+
+
+Що таке мікросервіс?
+
+Починати з одного моноліту.
+Від простішого до складнішого!!!
+Використовувати AJAX.
+
+Topic 2. C# Compilation 
+
+C# -> IL -> JIT -> Bin file
+
+unfined - don't use
+
+Topic 3. Publish
+
+ClickOnce - для внутрішнього використання
+
+3 layers
+
+Хероко
+
+GUID for GIT - sourcetree
+
+-------------
+1. Tim Corey
+
+Links:
+1) https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw​
+2) https://www.youtube.com/watch?v=KyFWqbRfWIA&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N
+3) https://git-school.github.io/visualizing-git/​
+
+4) https://www.youtube.com/user/IAmTimCorey

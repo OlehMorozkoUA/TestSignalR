@@ -1,0 +1,4 @@
+C:\Users\rezer\Desktop\Eleks\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezer\Desktop\Eleks\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.AssemblyInfoInputs.cache
+C:\Users\rezer\Desktop\Eleks\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.AssemblyInfo.cs
+C:\Users\rezer\Desktop\Eleks\Lessons\Lessons\obj\Debug\netcoreapp3.1\Lessons.csproj.CoreCompileInputs.cache
